@@ -164,3 +164,8 @@ cython_debug/
 # data 
 Data/
 data/
+
+# Others 
+src/config.json 
+src/wandb/
+src/instruct-pix2pix-model/
